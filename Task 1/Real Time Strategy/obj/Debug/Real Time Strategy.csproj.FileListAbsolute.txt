@@ -1,0 +1,13 @@
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\bin\Debug\Real Time Strategy.exe.config
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\bin\Debug\Real Time Strategy.exe
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\bin\Debug\Real Time Strategy.pdb
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\obj\Debug\Real Time Strategy.csprojAssemblyReference.cache
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\obj\Debug\Real_Time_Strategy.Form1.resources
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\obj\Debug\Real_Time_Strategy.Properties.Resources.resources
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\obj\Debug\Real Time Strategy.csproj.GenerateResource.cache
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\obj\Debug\Real Time Strategy.csproj.CoreCompileInputs.cache
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\obj\Debug\Real Time Strategy.exe
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\obj\Debug\Real Time Strategy.pdb
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\bin\Debug\System.ValueTuple.dll
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\bin\Debug\System.ValueTuple.xml
+D:\Vega\Coding\Real Time Strategy\Real Time Strategy\obj\Debug\Real Time Strategy.csproj.CopyComplete
